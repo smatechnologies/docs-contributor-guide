@@ -99,7 +99,7 @@ This is an example of the Tip syntax with an **Example** Header
 
 :::
 
-* The **info** (Blue) admonition should be used to identify topics of special notice that do not fall under the category of Example or Tip but should be highlighted. For example, a version-change based behavior or specialized knowledge or data specific to a content topic.
+* The **info** (blue) admonition should be used to identify topics of special notice that do not fall under the category of Example or Tip but should be highlighted. For example, a version-change based behavior or specialized knowledge or data specific to a content topic.
 
 * The **caution** (yellow) admonition should be used to identify activities or changes that require special steps or understanding for clarification. For example, calendar changes or time zone naming and offsets that can affect scheduling.
 
