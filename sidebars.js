@@ -4,6 +4,7 @@ module.exports = {
     'github',
     'work-local',
     'process',
-    'reference'
+    'best-practices',
+    'reference',
   ],
 };
