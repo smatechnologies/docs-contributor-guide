@@ -18,17 +18,17 @@ If you notice a small error or an opportunity to improve clarity with a minor ch
     You must be logged into GitHub to propose changes.
     :::
 
-    ![fork-project-and-edit-file](/img/fork-project-edit-file.png)
+    ![fork-project-and-edit-file](../static/img/fork-project-edit-file.png)
 
 3. Perform any changes to the markdown directly in your web browser.
 
 4. Give your proposed change a title and description.  Scroll to the bottom of the page and click the green **Propose file change** button.
 
-    ![propose-changes](/img/propose-changes.png)
+    ![propose-changes](../static/img/propose-changes.png)
 
 5. Create a **pull request**.  This is the object that encapsulates your changes and will be reviewed by SMA for acceptance to merge your changes into the live documentation.  Enter a title and click the green **Create pull request** button.  SMA team members will be notified of your request and will review your changes, possibly provide feedback, and may approve your request.
 
-    ![create-pull-request](/img/create-pull-request.png)
+    ![create-pull-request](../static/img/create-pull-request.png)
 
 ## Reporting issues
 
