@@ -122,7 +122,7 @@ This is an example of the Tip syntax with an **Example** Header
 * Use markdown formatting for inserting images.
 
 
-
+<!--
 ## Inclusive Documentation
 
 In briefest terms, our documentation should be written with inclusivity and diversity in mind.
@@ -131,6 +131,7 @@ In briefest terms, our documentation should be written with inclusivity and dive
 
 * When appropriate, replace established terms that reflect bias with more inclusive language.
     * If established technical language is recongnized as harmful but cannot be replaced, always write the terminology within code fencing font.
+-->
 
 ## Attribution 
 
